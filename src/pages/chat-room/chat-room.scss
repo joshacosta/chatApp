@@ -1,0 +1,21 @@
+page-chat-room {
+    ion-label{
+        color: maroon;
+    }
+
+   ion-footer{
+       background-color: white;
+       
+       
+    }
+    
+    .toolbar { 
+        min-height:44px ! important; 
+        }
+
+    #ppl {
+        margin-left: 2rem !important;
+        margin-right: 2rem !important;
+    }
+}
+
